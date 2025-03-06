@@ -1,0 +1,4 @@
+env
+lab3venv
+*/__pycache__
+.vscode
