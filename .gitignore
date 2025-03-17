@@ -3,3 +3,5 @@ lab3venv
 */__pycache__
 .vscode
 lab4/UCI HAR Dataset/
+
+*.pt
